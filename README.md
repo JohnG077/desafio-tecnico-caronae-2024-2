@@ -29,4 +29,4 @@ Abra o prompt de comando no seu sistema operacional e siga os passos abaixo para
     ```
     *(Selecionar o framework React e a linguagem JavaScript)*
 
-Com isso, será dado um link com o localhost. Copie o link e abra em qualquer navegador. O link será algo semelhante a *`"http://localhost:xxxx/"`*
+Com isso, será dado um link com o localhost. Copie o link e cole-o em qualquer navegador para acessar o projeto. O link será algo semelhante a *`"http://localhost:xxxx/"`*
