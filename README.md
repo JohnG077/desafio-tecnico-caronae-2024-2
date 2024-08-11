@@ -1,4 +1,4 @@
-# Documentação do Projeto
+# Instruções para Rodar o Projeto
 
 ## Requisitos
 
@@ -27,6 +27,6 @@ Siga os passos abaixo para configurar o ambiente de desenvolvimento:
     ```sh
     npm run dev
     ```
-    (Selecionar o framework React e a linguagem JavaScript)
+    *(Selecionar o framework React e a linguagem JavaScript)*
 
-Com isso, será dado um link com o localhost. Copie o link e abra em qualquer navegador. O link será algo semelhante a *"http://localhost:5173/"*
+Com isso, será dado um link com o localhost. Copie o link e abra em qualquer navegador. O link será algo semelhante a *`"http://localhost:xxxx/"`*
