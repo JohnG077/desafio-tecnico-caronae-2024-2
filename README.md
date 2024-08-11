@@ -9,7 +9,7 @@ Para rodar esse projeto, você precisará dos seguintes softwares instalados:
 
 ## Configurando o ambiente
 
-Siga os passos abaixo para configurar o ambiente de desenvolvimento:
+Abra o prompt de comando no seu sistema operacional e siga os passos abaixo para configurar o ambiente de desenvolvimento:
 
 1. **Clone o repositório do projeto:**
     ```sh
