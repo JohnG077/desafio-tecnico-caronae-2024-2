@@ -13,11 +13,11 @@ Siga os passos abaixo para configurar o ambiente de desenvolvimento:
 
 1. **Clone o repositório do projeto:**
     ```sh
-    git clone https://github.com/JohnG077/caronae-24.2-PS.git
+    git clone https://github.com/JohnG077/desafio-tecnico-caronae-2024-2.git
     ```
 2. **Entre no repositório:**
     ```sh
-    cd caronae-24.2-PS
+    cd desafio-tecnico-caronae-2024-2
     ```
 3. **Instale as dependências necessárias:** 
     ```sh
