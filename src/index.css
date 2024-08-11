@@ -9,16 +9,11 @@
   font-family: Inter, Avenir, sans-serif;
   line-height: 1.5;
   font-weight: 400;
+  text-align: center;
 
   color-scheme: light dark;
   color: #333;
   background-color: whitesmoke;
-
-  text-align: center;
-  font-synthesis: none;
-  text-rendering: optimizeLegibility;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
 }
 
 ul{
@@ -28,8 +23,8 @@ ul{
 body {
   display: flex;
   place-items: center;
-  min-width: 320px;
-  min-height: 100vh;
+  min-width: 20rem;
+  min-height: 56rem;
   align-items: center;
   justify-content: center;
 }
@@ -54,11 +49,11 @@ button {
 }
 button:hover {
   background-color: #3a3a3a;
-  border-color: rgb(46, 168, 250);
+  border-color: rgb(46, 134, 250);
 }
 button:focus,
 button:focus-visible {
-  outline: 4px auto -webkit-focus-ring-color;
+  outline: 0.25rem auto -webkit-focus-ring-color;
 }
 
 .going{
